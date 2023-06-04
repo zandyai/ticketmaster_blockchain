@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ticketmaster_blockchain/static/css/main.be9a6d50.css",
+    "main.js": "/ticketmaster_blockchain/static/js/main.d00df7a6.js",
+    "static/js/787.e7dc3585.chunk.js": "/ticketmaster_blockchain/static/js/787.e7dc3585.chunk.js",
+    "static/media/magnifying-glass.svg": "/ticketmaster_blockchain/static/media/magnifying-glass.60308050cd352ee465c5.svg",
+    "index.html": "/ticketmaster_blockchain/index.html",
+    "static/media/close.svg": "/ticketmaster_blockchain/static/media/close.ae469738e479d31aa952364e12120ad2.svg",
+    "static/media/angle-down-solid.svg": "/ticketmaster_blockchain/static/media/angle-down-solid.64fc78f263aa45efeb154028edb2b52d.svg",
+    "main.be9a6d50.css.map": "/ticketmaster_blockchain/static/css/main.be9a6d50.css.map",
+    "main.d00df7a6.js.map": "/ticketmaster_blockchain/static/js/main.d00df7a6.js.map",
+    "787.e7dc3585.chunk.js.map": "/ticketmaster_blockchain/static/js/787.e7dc3585.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be9a6d50.css",
+    "static/js/main.d00df7a6.js"
+  ]
+}
